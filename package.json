@@ -1,5 +1,5 @@
 {
-  "name": "neurolab-fastify",
+  "name": "lab-fastify",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
